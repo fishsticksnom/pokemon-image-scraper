@@ -1,7 +1,7 @@
 <h1 align="center">Pokemon Image Scraper</h1>
 
 <div align='center'>
-    <img src="" alt="scraper icon"/>
+    <img src="https://github.com/fishsticksnom/pokemon-image-scraper/blob/main/assets/scraper.png" alt="scraper icon"/>
 </div>
 
 ## About
