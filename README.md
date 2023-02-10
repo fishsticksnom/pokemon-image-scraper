@@ -7,10 +7,12 @@
 ## About
 The purpose of this script is to download all the images from a specific pokemon set.
 
-## Dependencies
+## Libraries
 
 beautifulsoup4
+
 requests
+
 wget
 
 ## Instructions
